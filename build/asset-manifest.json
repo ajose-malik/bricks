@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bricks/static/css/main.187eb330.chunk.css",
+    "main.js": "/bricks/static/js/main.cf7b6759.chunk.js",
+    "main.js.map": "/bricks/static/js/main.cf7b6759.chunk.js.map",
+    "runtime-main.js": "/bricks/static/js/runtime-main.b5ff2760.js",
+    "runtime-main.js.map": "/bricks/static/js/runtime-main.b5ff2760.js.map",
+    "static/js/2.304cf6cd.chunk.js": "/bricks/static/js/2.304cf6cd.chunk.js",
+    "static/js/2.304cf6cd.chunk.js.map": "/bricks/static/js/2.304cf6cd.chunk.js.map",
+    "index.html": "/bricks/index.html",
+    "static/css/main.187eb330.chunk.css.map": "/bricks/static/css/main.187eb330.chunk.css.map",
+    "static/js/2.304cf6cd.chunk.js.LICENSE.txt": "/bricks/static/js/2.304cf6cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5ff2760.js",
+    "static/js/2.304cf6cd.chunk.js",
+    "static/css/main.187eb330.chunk.css",
+    "static/js/main.cf7b6759.chunk.js"
+  ]
+}
